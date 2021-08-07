@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.8.0",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "dubavhm0",
+    "id": "cks1yvazi14250511bs6rtw9mjkf",
+    "url": "https://app.amplication.com/cks1yvazi14250511bs6rtw9mjkf",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cks1yvazi14250511bs6rtw9mjkf"
+    }
+  }
+}
